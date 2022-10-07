@@ -189,14 +189,17 @@ nav a:hover {
   padding-block: 20px;
 }
 
-.acol {
+.acol{
 
-  color: white;
+  color: #FFFFFF;
+}
+.acol:hover{
+  color: #FD841F;
 }
 
 .footer span {
   font-weight: bolder;
-  color: white;
+  color: #FFFFFF;
 }
 
 .iletişim-footer {
